@@ -1,7 +1,7 @@
 # MYproject
 Generative AI 
-
-Build a chatBot 
-Image Analysis
-Image Edit using AI
-Image Generation Text
+<br>
+Build a chatBot <br>
+Image Analysis<br>
+Image Edit using AI<br>
+Image Generation Text<br>
